@@ -1,19 +1,4 @@
-name: dosa
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.19555379217490554
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#b10000'
@@ -25,4 +10,19 @@ color:
   lightness: 0.9061826774850488
   saturation: 0.5174335921183228
   rhythmicContrast: 0.43173233699053526
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: dosa
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
